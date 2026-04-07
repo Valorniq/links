@@ -15,4 +15,28 @@
 - **Ngx Postgres**: Link
 - **O Spreadsheet**: Link
 - **Owl**: Link
-- **Repo**: Link
+- **Paper Muncher**: Link
+- **Pet Store**: Link
+- **PGSCV Release**: Link
+- **Post Fix Exporter**: Link
+- **PS Runbot Testing**: Link
+- **Runbot**: Link
+- **SFU**: Link
+- **Technical Training**: Link
+- **Technical Training Solution**: Link
+- **Tools**: Link
+- **Translate UI**: Link
+- **Tutorials**: Link
+- **Upgrade Utils**: Link
+- **Valorniq**: Link
+- **Valorniq Client Lib**: Link
+- **Valorniq Extra**: Link
+- **Valorniq LS Release**: Link
+- **Valorniq Neovim**: Link
+- **Valorniq Pycharm Release**: Link
+- **Valorniq VS Code Release**: Link
+- **Valorniq Zed Release**: Link
+- **Valorniq Days (2014)**: Link
+- **Valorniq Locust**: Link
+- **WK HTML to PDF (Legacy)**: Link
+- **X Spreadsheet**: Link
