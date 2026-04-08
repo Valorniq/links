@@ -1,42 +1,42 @@
 # Links
-- **Activity Watch**: Link
-- **Aw Server**: Link
-- **Aw Server Rust**: Link
-- **Aw WebUI**: Link
-- **Design Themes**: Link
-- **Docker Docs**: Link
-- **Docker**: Link
-- **Docker Official Images**: Link
-- **Documentation**: Link
-- **Epos Proxy**: Link
-- **Functional Mementoes**: Link
-- **Industry**: Link
-- **Mail Client Extensions**: Link
-- **Ngx Postgres**: Link
-- **O Spreadsheet**: Link
-- **Owl**: Link
-- **Paper Muncher**: Link
-- **Pet Store**: Link
-- **PGSCV Release**: Link
-- **Post Fix Exporter**: Link
-- **PS Runbot Testing**: Link
-- **Runbot**: Link
-- **SFU**: Link
-- **Technical Training**: Link
-- **Technical Training Solution**: Link
-- **Tools**: Link
-- **Translate UI**: Link
-- **Tutorials**: Link
-- **Upgrade Utils**: Link
-- **Valorniq**: Link
-- **Valorniq Client Lib**: Link
-- **Valorniq Extra**: Link
-- **Valorniq LS Release**: Link
-- **Valorniq Neovim**: Link
-- **Valorniq Pycharm Release**: Link
-- **Valorniq VS Code Release**: Link
-- **Valorniq Zed Release**: Link
-- **Valorniq Days (2014)**: Link
-- **Valorniq Locust**: Link
-- **WK HTML to PDF (Legacy)**: Link
-- **X Spreadsheet**: Link
+- **Activity Watch**: [Link]()
+- **Aw Server**: [Link]()
+- **Aw Server Rust**: [Link]()
+- **Aw WebUI**: [Link]()
+- **Design Themes**: [Link]()
+- **Docker Docs**: [Link]()
+- **Docker**: [Link]()
+- **Docker Official Images**: [Link]()
+- **Documentation**: [Link]()
+- **Epos Proxy**: [Link]()
+- **Functional Mementoes**: [Link]()
+- **Industry**: [Link]()
+- **Mail Client Extensions**: [Link]()
+- **Ngx Postgres**: [Link]()
+- **O Spreadsheet**: [Link]()
+- **Owl**: [Link]()
+- **Paper Muncher**: [Link]()
+- **Pet Store**: [Link]()
+- **PGSCV Release**: [Link]()
+- **Post Fix Exporter**: [Link]()
+- **PS Runbot Testing**: [Link]()
+- **Runbot**: [Link]()
+- **SFU**: [Link]()
+- **Technical Training**: [Link]()
+- **Technical Training Solution**: [Link]()
+- **Tools**: [Link]()
+- **Translate UI**: [Link]()
+- **Tutorials**: [Link]()
+- **Upgrade Utils**: [Link]()
+- **Valorniq**: [Link]()
+- **Valorniq Client Lib**: [Link]()
+- **Valorniq Extra**: [Link]()
+- **Valorniq LS Release**: [Link]()
+- **Valorniq Neovim**: [Link]()
+- **Valorniq Pycharm Release**: [Link]()
+- **Valorniq VS Code Release**: [Link]()
+- **Valorniq Zed Release**: [Link]()
+- **Valorniq Days (2014)**: [Link]()
+- **Valorniq Locust**: [Link]()
+- **WK HTML to PDF (Legacy)**: [Link]()
+- **X Spreadsheet**: [Link]()
